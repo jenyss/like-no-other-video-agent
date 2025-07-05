@@ -20,7 +20,7 @@ So, to shake things up, feel free to comment out the Veo3 tool. You can also adj
 
 Video length is capped at 30 seconds (but you can generate longer ones, if you're willing to pay the price for a good laugh), just change the duration in the agent's instructions or let it decide itself (not advisable).
 
-## Tools
+## Agent Tools
 
 * ask_openai_agent,
 * read_markdown,
