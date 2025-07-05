@@ -22,15 +22,15 @@ Video length is capped at 30 seconds (but you can generate longer ones, if you'r
 
 ## Agent Tools
 
-* ask_openai_agent,
-* read_markdown,
-* text_to_image_imagen4,
-* text_to_image_gpt_image_1,
-* text_to_image_flux_pro,
-* text_to_video_seedance_pro,
-* text_to_video_veo3,
-* image_to_video_seedance_pro, 
-* image_to_video_kling2_1_mater,
-* concatenate_videos,
-* text_to_audio_lyria,
-* merge_video_and_audio,
+* ask_openai_agent
+* read_markdown
+* text_to_image_imagen4
+* text_to_image_gpt_image_1
+* text_to_image_flux_pro
+* text_to_video_seedance_pro
+* text_to_video_veo3
+* image_to_video_seedance_pro
+* image_to_video_kling2_1_mater
+* concatenate_videos
+* text_to_audio_lyria
+* merge_video_and_audio
