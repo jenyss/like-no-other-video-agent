@@ -1,4 +1,5 @@
 # The "Like No Other" Video Agent 
+
 The "Like No Other" Video Agent is a tribute to human creativity and imagination. It’s inspired by three iconic ads that have stayed with me - evoking joy, awe, happiness, love, and compassion. Emotions… like no other.
 
 We often speak of technology as if it will ultimately prevail. But at the end of the day, it is the result of our own boundless human potential and no matter how magnificent the technology becomes, it will always lack one of life’s most profound forces: **emotion**. 
@@ -19,6 +20,8 @@ Once that’s done, the agent decides which models to use, and in what sequence 
 So, to shake things up, feel free to comment out the Veo3 tool. You can also adjust the instructions to guide the agent when to give a preference to a specific model-tool. 
 
 Video length is capped at 30 seconds (but you can generate longer ones, if you're willing to pay the price for a good laugh), just change the duration in the agent's instructions or let it decide itself (not advisable).
+
+If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
 
 ## Agent Tools
 
