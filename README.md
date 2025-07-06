@@ -34,7 +34,7 @@ TODO:
 ## How-To
 
 **Option 1:** Run in Colab
-coming soon...
+<br>coming soon...
 
 **Option 2:** Run Locally
 - Clone this repo and open the uploaded notebook in JupyterLab
