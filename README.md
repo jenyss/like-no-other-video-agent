@@ -23,7 +23,9 @@ Video length is capped at 30 seconds (but you can generate longer ones, if you'r
 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
 
-## Agent Tools
+## Agent Architecture
+
+![like-no-other-video-agent](https://github.com/user-attachments/assets/49417ace-2f3f-49ea-924e-bae5f670933e)
 
 * ask_openai_agent
 * read_markdown
