@@ -27,6 +27,20 @@ If you have any questions or would like to collaborate, feel free to reach out t
 
 ![like-no-other-video-agent](https://github.com/user-attachments/assets/49417ace-2f3f-49ea-924e-bae5f670933e)
 
-## How-To
+## How It Works
 
 TODO:
+
+## How-To
+
+**Option 1:** Run in Colab
+coming soon...
+
+**Option 2:** Run Locally
+- Clone this repo and open the uploaded notebook in JupyterLab
+- Create a .env file with your API keys:
+  - ```OPENAI_API_KEY```
+  - ```FAL_KEY```
+  - ```GOOGLE_API_KEY```
+ 
+  
