@@ -27,15 +27,6 @@ If you have any questions or would like to collaborate, feel free to reach out t
 
 ![like-no-other-video-agent](https://github.com/user-attachments/assets/49417ace-2f3f-49ea-924e-bae5f670933e)
 
-* ask_openai_agent
-* read_markdown
-* text_to_image_imagen4
-* text_to_image_gpt_image_1
-* text_to_image_flux_pro
-* text_to_video_seedance_pro
-* text_to_video_veo3
-* image_to_video_seedance_pro
-* image_to_video_kling2_1_mater
-* concatenate_videos
-* text_to_audio_lyria
-* merge_video_and_audio
+## How-To
+
+TODO:
