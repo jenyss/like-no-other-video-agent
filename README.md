@@ -4,7 +4,7 @@ The "Like No Other" Video Agent is a tribute to human creativity and imagination
 
 We often speak of technology as if it will ultimately prevail. But at the end of the day, it is the result of our own boundless human potential and **no matter how magnificent the technology becomes, it will always lack one of life’s most profound forces: emotion**. 
 
-The "Like No Other" agent is designed to recreate your favourite ad. I gave it tools and let it be the Creative Director, Producer and Post Production Producer of the videos.
+**The "Like No Other" agent is designed to recreate your favourite commercial.** I gave it tools and let it be the Creative Director, Producer and Post Production Producer of the videos.
 
 **This experiment quickly demonstrates why some jobs must be carried out only by trained professionals - and why you probably shouldn’t attempt them at home. Video production is still one of those things… unless you’re aiming for mediocre results (or have very low expectations!).**
 
