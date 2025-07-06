@@ -27,9 +27,6 @@ If you have any questions or would like to collaborate, feel free to reach out t
 
 ![like-no-other-video-agent](https://github.com/user-attachments/assets/49417ace-2f3f-49ea-924e-bae5f670933e)
 
-## How It Works
-
-TODO:
 
 ## How-To
 
@@ -42,5 +39,6 @@ TODO:
   - ```OPENAI_API_KEY```
   - ```FAL_KEY```
   - ```GOOGLE_API_KEY```
+- In the last notebook cell, enter your prompt. Then either run the notebook cells one by one, or choose “Run All Cells” from the Run menu. Make sure to check the provided example ```user_prompts```.
  
   
