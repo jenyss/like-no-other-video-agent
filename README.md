@@ -15,7 +15,7 @@ The agent uses some of the best image, video and audio models available today an
 * Why It Resonated
 * The Music
 
-Once that’s done, the agent decides which models to use, and in what sequence to bring the ad to life. It can go straight to text-to-video, or choose to first generate an image and then animate it. It gets to pick between different models… but guess which image and video tools a Google ADK Agent powered by Gemini would naturally prefer 😉 
+Once that’s done, the agent decides which models to use, and in what sequence to bring the ad to life. It can go straight to text-to-video, or choose to first generate an image and then animate it. It gets to pick between different models… but guess which image and video tools a [Google ADK](https://google.github.io/adk-docs/) Agent powered by Gemini would naturally prefer 😉 
 
 So, to shake things up, feel free to comment out the Veo3 tool. You can also adjust the instructions to guide the agent when to give a preference to a specific model-tool. 
 
