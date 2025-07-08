@@ -8,7 +8,7 @@ We often speak of technology as if it will ultimately prevail. But at the end of
 
 **This experiment quickly demonstrates why some jobs must be carried out only by trained professionals - and why you probably shouldn’t attempt them at home. Video production is still one of those things… unless you’re aiming for mediocre results (or have very low expectations!).**
 
-The agent uses some of the best image, video and audio models available today and the Google ADK "think" function to plan its creative process and then execute it. But it all starts with an OpenAI Agent (with a search tool) powered by GPT-4o (my favourite), wrapped as a ADK tool, to research and structure information about your favourite ad:
+The agent uses some of the best image, video and audio models available today and the [Google ADK](https://google.github.io/adk-docs/) "**think**" function to plan its creative process and then execute it. But it all starts with an OpenAI Agent (with a search tool) powered by GPT-4o (my favourite), wrapped as a ADK tool, to research and structure information about your favourite ad:
 
 * The Ad in a Nutshell
 * The Scenes
