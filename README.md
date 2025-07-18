@@ -25,7 +25,7 @@ If you have any questions or would like to collaborate, feel free to reach out t
 
 ## Agent Architecture
 
-![like-no-other-video-agent](https://github.com/user-attachments/assets/49417ace-2f3f-49ea-924e-bae5f670933e) ..
+![like-no-other-video-agent](https://github.com/user-attachments/assets/49417ace-2f3f-49ea-924e-bae5f670933e)
 
 
 ## How-To
