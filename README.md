@@ -32,7 +32,7 @@ If you have any questions or would like to collaborate, feel free to reach out t
 
 **Option 1:** Run in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HohTrk2KWmvBFkcNM_LNohH8GXpHTHvS?usp=sharing)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HohTrk2KWmvBFkcNM_LNohH8GXpHTHvS?usp=sharing)
 
 **Option 2:** Run Locally
 - Clone this repo and open the uploaded notebook in JupyterLab
